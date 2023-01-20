@@ -3,7 +3,7 @@
 <channel>
 <atom:link href="https://michael833.github.io/podcast.rss" rel="self" type="application/rss+xml"/>
 <title>Podcast Example</title>
-<link>https://michael833.github.io/podcast-example</link>
+<link>https://michael833.github.io</link>
 <language/>
 <copyright>© 2022 Podcast Example</copyright>
 <itunes:subtitle/>
@@ -26,9 +26,9 @@
 <itunes:author/>
 <itunes:subtitle>Podcast Example: About Jekyll</itunes:subtitle>
 <itunes:summary/>
-<itunes:image href="https://michael833.github.io//assets/jekyll-logo.png"/>
+<itunes:image href="https://michael833.github.io/assets/jekyll-logo.png"/>
 <enclosure url="https://github.com/michael833/raw/master/audio/jekyll-hyde.mp3" length="461569" type="audio/mp3"/>
-<guid isPermaLink="true">https://michael833.github.io/test2.html</guid>
+
 <pubDate>Mon, 19 Sep 2022 01:24:34 +0000</pubDate>
 <itunes:duration>00:37</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -41,9 +41,9 @@
 <itunes:author/>
 <itunes:subtitle>Podcast Example: What is Atom?</itunes:subtitle>
 <itunes:summary/>
-<itunes:image href="https://michael833.github.io//assets/logo.png"/>
+<itunes:image href="https://michael833.github.io/assets/logo.png"/>
 <enclosure url="https://github.com/michael833/raw/master/audio/track1.mp3" length="1029183" type="audio/mp3"/>
-<guid isPermaLink="true">https://michael833.github.io/test1.html</guid>
+
 <pubDate>Mon, 19 Sep 2022 01:23:34 +0000</pubDate>
 <itunes:duration>00:50</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
