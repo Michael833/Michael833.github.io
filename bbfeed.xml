@@ -16,8 +16,10 @@
 <itunes:email>na</itunes:email>
 </itunes:owner>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<itunes:category text="Hobbies"/>
-</itunes:category>
+<itunes:category text="History"/>
+<itunes:category text="Leisure">
+	<itunes:category text="Hobbies"/>
+
 <itunes:explicit>no</itunes:explicit>
 
 
