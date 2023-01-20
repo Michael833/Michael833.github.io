@@ -27,12 +27,12 @@
 <itunes:subtitle>Podcast Example: About Jekyll</itunes:subtitle>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/jekyll-logo.png"/>
-<enclosure url="https://github.com/michael833/raw/master/audio/jekyll-hyde.mp3" length="461569" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/jekyll-hyde.mp3" length="461569" type="audio/mp3"/>
 
 <pubDate>Mon, 19 Sep 2022 01:24:34 +0000</pubDate>
 <itunes:duration>00:37</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> Just a test site with audio posting. Show Notes Available at https://michael833.github.io/test2.html.</description>
+<description> Just a test site with audio posting. Show Notes Available at .</description>
 <itunes:keywords>jekyll</itunes:keywords>
 <itunes:block/>
 </item>
@@ -42,12 +42,12 @@
 <itunes:subtitle>Podcast Example: What is Atom?</itunes:subtitle>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/logo.png"/>
-<enclosure url="https://github.com/michael833/raw/master/audio/track1.mp3" length="1029183" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/track1.mp3" length="1029183" type="audio/mp3"/>
 
 <pubDate>Mon, 19 Sep 2022 01:23:34 +0000</pubDate>
 <itunes:duration>00:50</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> All about atom and rss - test. Show Notes Available at https://michael833.github.io/test1.html.</description>
+<description> All about atom and rss - test. Show Notes Available at .</description>
 <itunes:keywords>atom</itunes:keywords>
 <itunes:block>no</itunes:block>
 </item>
