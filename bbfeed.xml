@@ -1,0 +1,43 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="">
+<script/>
+<channel>
+<atom:link href="https://michael833.github.io/bbfeed.xml" rel="self" type="application/rss+xml"/>
+<title>The Big Broadcast</title>
+<link>https://michael833.github.io</link>
+<language/>
+<copyright>No © 2009, Coyote! Productions</copyright>
+<itunes:subtitle/>
+<itunes:author/>
+<itunes:summary>Recorded podcast of The Big Broadcst stream </itunes:summary>
+<description>Recorded podcast of The Big Broadcst stream </description>
+<webMaster>na ()</webMaster>
+<itunes:owner>
+<itunes:name/>
+<itunes:email>na</itunes:email>
+</itunes:owner>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<itunes:category text="Hobbies"/>
+</itunes:category>
+<itunes:explicit>no</itunes:explicit>
+
+
+<item>
+<title>December 11, 2022</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<!--  <itunes:image href="https://michael833.github.io/assets/jekyll-logo.png"/>  -->
+<enclosure url="https://michael833.github.io/audio/756 - December 11, 2022.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<!--  <itunes:keywords>jekyll</itunes:keywords>  -->
+<itunes:block/>
+</item>
+
+
+
+
+</channel>
+</rss>
