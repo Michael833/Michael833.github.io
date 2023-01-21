@@ -1,4 +1,4 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="">
 <script/>
 <channel>
 <atom:link href="https://michael833.github.io/bbpodcast.xml" rel="self" type="application/rss+xml"/>
@@ -30,7 +30,7 @@
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
 <enclosure url="https://michael833.github.io/audio/756-11Dec2022.mp3" length="101265408" type="audio/mp3"/>
-<guid isPermaLink="true">https://michael833.github.io/index.html</guid>
+<guid isPermaLink="true">https://michael833.github.io/audio/756-11Dec2022.mp3</guid>
 <pubDate>Mon, 12 Dec 2022 09:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
