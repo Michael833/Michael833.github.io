@@ -23,6 +23,21 @@
 <itunes:explicit>no</itunes:explicit>
 
 <item>
+<title>December 11, 2022</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/756-11Dec2022.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Mon, 12 Dec 2022 09:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+<item>
 <title>About Jekyll</title>
 <itunes:author/>
 <itunes:subtitle>Podcast Example: About Jekyll</itunes:subtitle>
@@ -43,7 +58,7 @@
 <itunes:subtitle>Podcast Example: What is Atom?</itunes:subtitle>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/logo.png"/>
-<enclosure url="https://michael833.github.io/track1.mp3" length="1029183" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/track1.mp3" length="1029183" type="audio/mp3"/>
 <pubDate>Mon, 19 Sep 2022 01:23:34 +0000</pubDate>
 <itunes:duration>00:50</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
