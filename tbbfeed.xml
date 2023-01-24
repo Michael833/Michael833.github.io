@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="">
 <script/>
 <channel>
-<atom:link href="https://michael833.github.io/podcast.rss" rel="self" type="application/rss+xml"/>
+<atom:link href="https://michael833.github.io/tbbfeed.xml" rel="self" type="application/rss+xml"/>
 <title>The Big Broadcast</title>
 <link>https://michael833.github.io</link>
 <language/>
@@ -15,7 +15,7 @@
 <itunes:name/>
 <itunes:email>na</itunes:email>
 </itunes:owner>
-<itunes:image href="https://michael833.github.io/assets/logo.png"/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
 <itunes:category text="Technology"/>
 <itunes:category text="Education">
 	<itunes:category text="Educational"/>
