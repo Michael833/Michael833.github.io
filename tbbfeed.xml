@@ -2,14 +2,14 @@
 <script/>
 <channel>
 <atom:link href="https://michael833.github.io/podcast.rss" rel="self" type="application/rss+xml"/>
-<title>Podcast Example</title>
+<title>The Big Broadcast</title>
 <link>https://michael833.github.io</link>
 <language/>
-<copyright>© 2022 Podcast Example</copyright>
+<copyright>No © 2009</copyright>
 <itunes:subtitle/>
 <itunes:author/>
-<itunes:summary>Podcasts with github </itunes:summary>
-<description>Podcasts with github </description>
+<itunes:summary>The Big Broadcast </itunes:summary>
+<description> WAMU's The Big Broadcast </description>
 <webMaster>na ()</webMaster>
 <itunes:owner>
 <itunes:name/>
@@ -21,6 +21,101 @@
 	<itunes:category text="Educational"/>
 </itunes:category>
 <itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>January 15, 2023</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/762 - January 15, 2023.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Mon, 16 Jan 2023 09:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+<item>
+<title>January 8, 2023</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/761 - January 8, 2023.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Mon, 9 Jan 2023 09:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+<item>
+<title>January 1, 2023</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/760 - January 1, 2023.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Mon, 2 Jan 2023 09:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+<item>
+<title>December 25, 2022</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/759 - December 25, 2022.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Mon, 26 Dec 2022 09:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+<item>
+<title>December 24, 2022</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/758 - December 24, 2022.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Sun, 25 Dec 2022 09:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+<item>
+<title>December 18, 2022</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/757 - December 18, 2022.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Mon, 19 Dec 2022 09:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description> Empty for this first episode. </description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
 
 <item>
 <title>December 11, 2022</title>
@@ -37,6 +132,7 @@
 <itunes:block/>
 </item>
 
+
 <item>
 <title>About Jekyll</title>
 <itunes:author/>
@@ -51,6 +147,7 @@
 <itunes:keywords>jekyll</itunes:keywords>
 <itunes:block/>
 </item>
+
 
 <item>
 <title>What is Atom?</title>
