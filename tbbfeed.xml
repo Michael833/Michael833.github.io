@@ -4,7 +4,7 @@
 <atom:link href="https://michael833.github.io/tbbfeed.xml" rel="self" type="application/rss+xml"/>
 <title>The Big Broadcast</title>
 <link>https://michael833.github.io</link>
-<language/>
+<language>en-us</language>
 <copyright>No © 2009</copyright>
 <itunes:subtitle/>
 <itunes:author/>
@@ -16,11 +16,88 @@
 <itunes:email>na</itunes:email>
 </itunes:owner>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<itunes:category text="Technology"/>
-<itunes:category text="Education">
-	<itunes:category text="Educational"/>
+<itunes:category text="History"/>
+<itunes:category text="Leisure">
+	<itunes:category text="Hobbies"/>
 </itunes:category>
 <itunes:explicit>no</itunes:explicit>
+
+<!--
+Macro: Place <p>, </p>, and <br> , delete extra line spaces, then highlight text, then Alt + =
+^ and reg exp for <p>
+$ and reg exp for </p>
+
+<item>
+<title>February 5, 2023</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/765 - February 5, 2023.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Sun, 5 Feb 2023 23:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description>
+	
+</description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+
+
+
+
+<item>
+<title>January 29, 2023</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/764 - January 29, 2023.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Sun, 29 Jan 2023 23:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description>
+	<p>0:00:00 - Yours Truly, Johnny Dollar <br> “The Amy Bradshaw Matter”   Bob Bailey as Johnny Dollar investigates death threats against a famous actress; Parts 1, 2 and 3 (Original air dates November 21, 22, and 23, 1955. CBS network.) </p>
+	<p>0:40:00 - The Chase and Sanborn Hour <br> Clark Gable guest stars and goes head to head with Charlie McCarthy.  (Original air date October October 29, 1939. NBC network.)</p>
+	<p>1:00:00 - Gunsmoke <br> “Lost Rifle”    An upsetting tale of child abuse and the consequences. (Original air date July 29, 1956. CBS network.)</p>
+	<p>1:30:00 - Dragnet <br> “The Big Mother”  A newborn has gone missing from the hospital. (Original air date November 9, 1950. NBC network.)</p>
+	<p>2:00:00 - Romance <br> “The Bear”    A western adaptation of Chekov’s one-act farce of the same name, starring Virginia Gregg and John Dehner. (Original air date November 5, 1955. CBS network.)</p>
+	<p>2:30:00 - The Charlie McCarthy Show <br> W.C. Fields and Charlie McCarthy face off at a barbershop.  (Original air date February 20, 1944. NBC network.)</p>
+	<p>3:00:00 - The Lux Radio Theatre <br> “Kiss of Death”   Victor Mature stars in screenwriter Ben Hecht’s story of innocent gangsters, molls and revenge. (Original air date January 12,1948. CBS network.)</p>
+</description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+-->
+
+<item>
+<title>January 22, 2023</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/763 - January 22, 2023.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Sun, 22 Jan 2023 23:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description>
+	<p>0:00:00 - Yours Truly, Johnny Dollar <br> “The Broderick Matter”   Bob Bailey as Johnny Dollar must find a missing woman, who was last seen when she was only 11 years old; PARTS 4 and 5 (Original air dates November 17 and 18, 1955. CBS network.) </p>
+	<p>0:30:00 - Our Miss Brooks <br> Walter Denton’s radio gives a strange and concerning weather report.  (Original air date October 08, 1950. CBS network.)</p>
+	<p>1:00:00 - Gunsmoke <br> “Letter of the Law”    Marshal Dillon is forced to evict a reformed gunfighter named Brandon Teak from his land. (Original air date July 15, 1956. CBS network.)</p>
+	<p>1:20:00 - Dragnet <br> “The Big Church”  A new member of the congregation receives anonymous letters and phone calls threatening her with murder. (Original air date November 2, 1950. NBC network.)</p>
+	<p>1:50:00 - The Radio Almanac <br> Ann Sothern and Orson Welles star.  (Original air date May 17, 1944. CBS network.)</p>
+	<p>2:00:00 - The Adventures Of Philip Marlowe <br> “Red Wind”    A real Raymond Chandler story of double-crossing. (Original air date September 26, 1948. CBS network.)</p>
+	<p>2:30:00 - Inner Sanctum Mysteries <br> “The Vengeful Corpse”  A woman burned as a witch returns to enact revenge.  (Original air date September 12, 1949. CBS network.)</p>
+	<p>3:00:00 - The Eternal Light <br> “Try Not To Love Such A Country”  Stories from Sholem Aleichem:  A young boy arrives from the old country with many of the traditions from the old country.   (Original air date January 13, 1963. NBC network.)</p>
+	<p>3:30:00 - I Was A Communist For The FBI <br> “Draw The Red Curtain”. Dana Andrews stars as comrade Cvetic, assigned to help the Party take over an actor’s guild.  (Original air date July 06, 1952. ZIV Syndication.)</p>
+</description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
 
 <item>
 <title>January 15, 2023</title>
@@ -32,10 +109,21 @@
 <pubDate>Mon, 16 Jan 2023 09:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> Empty for this first episode. </description>
+<description>
+	<p>0:00:00 - Yours Truly, Johnny Dollar <br> “The Broderick Matter”   Bob Bailey as Johnny Dollar must find a missing woman, who was last seen when she was only 11 years old; PARTS 1, 2 and 3 (Original air dates November 14, 15 and 16, 1955. CBS network.) </p>
+	<p>0:30:00 - The Studs Terkel Program <br> Studs Terkel interviews Martin Luther King, Jr.  (Original air date October 28, 1964. Chicago station WFMT.)</p>
+	<p>1:00:00 - Gunsmoke <br> “Passive Resistance”    A man chooses to solve his quarrels without gun violence, and needs protection. (Original air date July 8, 1956. CBS network.)</p>
+	<p>1:20:00 - Lum and Abner <br> Lum and Abner look into insurance.  (Original air date February 1, 1945. NBC Blue network.)</p>
+	<p>1:30:00 - Dragnet <br> “The Big Meet”   Joe Friday has a tense assignment, risking his life going undercover. (Original air date October 26, 1950. NBC network.)</p>
+	<p>2:00:00 - New World A’Coming <br> “Executive Order 8802”     The history of Executive Order 8802, a temporary end to racial segregation in hiring and in the military during WWII. (Original air date November 5, 1944. New York City station WMCA.)</p>
+	<p>2:30:00 - The Adventures Of Sam Spade, Detective <br> “The Lazarus Caper”.  Howard Duff stars as Sam Spade.  (Original air date September 12, 1948. CBS network.)</p>
+	<p>3:00:00 - Beyond Tomorrow <br> “Incident At Switchpath”   An invasion! Based on the story, “The Sky Was Full Of Ships,” by Theodore Sturgeon.  (Original air date April 11, 1950. CBS network.)</p>
+	<p>3:30:00 - Arch Oboler’s Plays <br> “Lust For Life”.  The story of Vincent Van Gogh.  (Original air date August 16, 1945. NBC network.)</p>
+</description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
+
 
 <item>
 <title>January 8, 2023</title>
@@ -47,7 +135,15 @@
 <pubDate>Mon, 9 Jan 2023 09:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> Empty for this first episode. </description>
+<description>
+	<p>0:00:00 - Yours Truly, Johnny Dollar <br> “The Lorko Diamonds Matter”   Bob Bailey as Johnny Dollar investigates a diamond robbery in Algiers; PARTS 4 and 5 (Original air dates November 10 and 11, 1955. CBS network.) </p>
+	<p>0:30:00 - The Texaco Star Theatre <br> Fred Allen’s first show of the 1942 season, with guest star Charles Laughton.  (Original air date October 4, 1942. CBS network.)</p>
+	<p>1:00:00 - Gunsmoke <br> “Gun For Chester”    Chester fears that someone is out to kill him. (Original air date July 1, 1956. CBS network.)</p>
+	<p>1:20:00 - excerpt from  Duffy’s Tavern    Archie wants to film his life story, and hires comedian Larry Storch to impersonate Hollywood stars to fill out the cast.  (Original air date January 11, 1946. NBC network.)</p>
+	<p>1:30:00 - Dragnet <br> “The Big Grandma”   An elderly woman has been passing bad checks. (Original air date October 19, 1950. NBC network.)</p>
+	<p>2:00:00 - X Minus One <br> “Nightmare”     Based on Stephen Vincent Benet’s poem, “Revolt Of The Machines”;  a clerk discovers what the computers are planning. (Original air date July 21, 1955. NBC network.)</p>
+	<p>2:30:00 - The Big Show <br> Tallulah Bankhead’s star-studded spectacle with guests Eddie Cantor, José Ferrer, Bob Hope, Jimmy Durante, and music by Meredith Willson.  (Original air date November 19, 1950. NBC network.)</p>
+</description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
@@ -63,7 +159,15 @@
 <pubDate>Mon, 2 Jan 2023 09:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> Empty for this first episode. </description>
+<description> 
+	<p>0:00:00 - Yours Truly, Johnny Dollar <br> “The Lorko Diamonds Matter”   Bob Bailey as Johnny Dollar investigates a diamond robbery in Algiers; PARTS 1,2 and 3 (Original air dates November 7,8 and 9, 1955. CBS network.) </p>
+	<p>0:40:00 - Suspense <br> “The Thirty-Second Of December”   A gambler buys a watch with many dials, including one that travels through time  (Original air date December 28, 1958. CBS network.)</p>
+	<p>1:00:00 - Gunsmoke <br> “Pucket’s New Year”    (Original air date January 1, 1956. CBS network.)</p>
+	<p>1:30:00 - Dragnet <br> “The Big Quack”   A woman commits suicide after being robbed by a phony Dr. Schulte, owner of the Los Angeles College of Psychotherapeutics. (Original air date October 12, 1950.) NBC network.)</p>
+	<p>2:00:00 - Maxwell House Coffee Time <br> George Burns and Gracie Allen decide to board a returning soldier in their home. (Original air date January 3, 1946. NBC network.)</p>
+	<p>2:30:00 - Quiet, Please <br> “Rain On New Year’s Eve”    The writer of a horror movie gets in the last word.  (Original air date December 31, 1947. Mutual network.)</p>
+	<p>3:00:00 - The Mercury Theatre <br> “Hell on Ice”    A gripping dramatization of the true story of a 19th-century expedition to the North Pole, and its terrible fate. (Original broadcast date October 10, 1938. CBS network.)</p>
+</description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
@@ -79,7 +183,17 @@
 <pubDate>Mon, 26 Dec 2022 09:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> Empty for this first episode. </description>
+<description>
+	<p>0:00:00 - The First Nighter Program <br> “Little Town Of Bethlehem”   (Original air date December 23, 1945. NBC network.) (Running time 27:46)</p>
+	<p>0:30:00 - Duffy’s Tavern <br> Archie is fed up with the holiday, until he receives a visit from a stranger.    (Original air date December 22, 1948. NBC network.) (Running time 28:56)</p>
+	<p>1:00:00 - Gunsmoke <br> Christmas in Dodge City.    (Original air date December 20, 1952. NBC network.) (Running time 27:53)</p>
+	<p>1:30:00 - The Six-Shooter <br> A western “A Christmas Carol” with Jimmy Stewart. (Original air date December 20, 1953, NBC network.) (Running time 28:58)</p>
+	<p>2:00:00 - The Columbia Workshop <br> “The Day They Gave Babies Away”   A Christmas story about six orphans who must find news homes. (Original air date December 21, 1946. CBS network.)(Running time 29:48)</p>
+	<p>2:30:00 - The Cavalcade Of America <br> “A Child Is Born”     An original nativity play, by poet Stephen Vincent Benét. (Original air date December 21, 1942. NBC red network.)(Running time 29:27)</p>
+	<p>3:00:00 - Our Miss Brooks <br> “The Magic Christmas Tree”     (Original air date December 25, 1949. CBS network.) (Running time 27:20)</p>
+	<p>3:30:00 - Philco Radio Time <br> Bing Crosby leads everyone in Christmas hymns such as “Adeste Fideles”, and presents a moving Christmas play titled, “The Small One.”  (Original air date December 25, 1946, ABC network.) (Running time 27:19)</p>
+
+</description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
@@ -95,7 +209,16 @@
 <pubDate>Sun, 25 Dec 2022 09:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> Empty for this first episode. </description>
+<description> 
+	<p>0:00:00 - Fibber McGee and Molly <br> Fibber paints his Christmas tree white. Teeny and The King’s Men sing “The Night Before Christmas.” (Original air date December 18, 1945. NBC network.) (Running time 27:00)</p>
+	<p>0:30:00 - Father Knows Best <br> Sometimes called “Stranded in a snowstorm”; the Anderson family has different ideas of how each would like to spend Christmas. (Original air date December 24, 1953, NBC network.) (Running time 28:07)</p>
+	<p>1:00:00 - The Columbia Workshop <br> “Bread On The Waters”     (Original air date December 22, 1938. CBS network.) (Running time 29:49)</p>
+	<p>1:30:00 - The Greatest Story Ever Told <br> “No Room At The Inn”. The story of the Nativity, based on the book by Fulton Oursler of the life of Jesus.      (Original air date December 21, 1947. ABC network.)(Running time 24:42)</p>
+	<p>2:00:00 - Lum & Abner <br> “Traditional Christmas Story” A walk in the woods is something more. (Original air date December 24, 1944, NBC network.) (Running time 14:42)</p>
+	<p>2:15:00 - The Challenge Of The Yukon <br> A young boy gets a puppy for Christmas, thanks to Sergeant Preston.  (Original air date December 19, 1946. WXYZ station.)(Running time 14:18)</p>
+	<p>2:30:00 - Family Theatre <br> “Lullaby Of Christmas”.  A Christmas fable about a young boy who could not speak, at the time of the birth of Jesus.  (Original air date December 19, 1951. Mutual network)(Running time 29:56)</p>
+	<p>3:00:00 - The Campbell Playhouse <br> “A Christmas Carol”    Lionel Barrymore in his defining role, in Charles Dicken’s classic ghost story.   (Original air date December 24, 1939. CBS network.)(Running time 54:12)</p>
+ </description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
@@ -112,7 +235,17 @@
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 <description> Empty for this first episode. </description>
-<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:keywords>
+	<p>0:00:00 - Yours Truly, Johnny Dollar <br> “The Missing Mouse Matter”   A singing mouse named Gulliver has been kidnapped — wait, a singing mouse? (Original air date December 23, 1956. CBS network.) </p>
+	<p>0:30:00 - Suspense <br> “The Cave”   A fanciful story about two boys who discover pirates in a magical cave on Christmas Day.  (Original air date December 20, 1955. CBS network.)</p>
+	<p>1:00:00 - Gunsmoke <br> “Where’d They Go?”   Marshal Dillon and Chester ride out to arrest a man accused of robbery but are sidetracked by charitable needs and deeds.   (Original air date December 29, 1957. CBS network.)</p>
+	<p>1:30:00 - Dragnet <br> “The Big Little Jesus”   A Los Angeles Mission reports the statue of Jesus has been stolen the day before Christmas. (Original air date December 22, 1953.) NBC network.)</p>
+	<p>2:00:00 - The Eternal Light <br> “Anne Frank: The Diary Of A Young Girl”   A radio adaptation of the famous journal by Anne Frank, a Jewish teenager who chronicled her family’s life in hiding under Nazi persecution. (Original air date December 14, 1952. NBC network.)</p>
+	<p>2:30:00 - Rocky Fortune <br> “The Plot To Murder Santa Claus”     Frank Sinatra stars as detective Rocky Fortune; there’s a plot to murder Santa Claus.  (Original air date December 22, 1953. NBC network.)</p>
+	<p>2:52:00 - excerpt New World A’Coming (Original air date December 24, 1944.)</p>
+	<p>3:00:00 - The Shadow <br> “Cold Death”  Orson Welles stars as The Shadow, entering the mind of a Scrooge-like slumlord who keeps the press out of his shantytown with gangsters.  (Original broadcast date December 19, 1937.  Mutual network.)</p>
+<p>3:00:00 - Broadway Is My Beat <br> Nick Norman is just out of Sing Sing after fifteen years and is scheduled to play Santa Claus for the P.A.L. (Original broadcast date December 24, 1949. CBS network.)</p>
+</itunes:keywords>
 <itunes:block/>
 </item>
 
@@ -127,7 +260,17 @@
 <pubDate>Mon, 12 Dec 2022 09:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<description> Empty for this first episode. </description>
+<description> 
+	<p>0:00:00 - Yours Truly, Johnny Dollar <br> “The Valentine Matter”  Parts 4 and 5.   Bob Bailey as Johnny Dollar, investigating  the murder of Danny Valentine. (Original air date November 3 and 4, 1955. CBS network.) </p>
+	<p>0:30:00 - My Favorite Husband <br> Lucille Ball as Liz Cooper; there are only seven shopping days until Christmas. What is George planning to give Liz for Christmas? (Original air date December 16, 1949. CBS network.)</p>
+	<p>1:00:00 - Gunsmoke <br> “Cheap Labor”  A peaceful man is threatened by a jealous brother of his fiancée.   (Original air date June 17, 1956. CBS network.)</p>
+	<p>1:20:00 - Excerpt from “The Sound of Jazz” featuring Billie Holiday’s “Fine and Mellow” (Original air date December 8, 1957)</p>
+	<p>1:30:00 - Dragnet <br> “The Big 38”   A brutal story of a store clerk shot and murdered. (Original air date October 5, 1950.) NBC network.)(Running time 26:04)</p>
+	<p>2:00:00 - The Challenge Of The Yukon <br> “The Man With The Red Coat”  A little girl confuses Sergeant Preston’s red Mountie suit with Santa’s costume. (Original air date December 22, 1948. ABC network.)</p>
+	<p>2:30:00 - Suspense <br> “Out For Christmas”    Raymond Burr stars as an ex-con who gets out of jail just before Christmas, looking for trouble.  (Original air date December 21, 1958. CBS network.)(Running time 23:29)</p>
+	<p>3:00:00 - Big Town <br> Edward G. Robinson stars as Steve Wilson of the The Illustrated Press, who investigates a suspicious Christmas charity racket.  (Original broadcast date December 21, 1937. CBS network.)(Running time 26:26)</p>
+	<p>3:00:00 - Quiet Please <br> “Berlin, 1945”   A great Christmas story about a group of American G.I.’s celebrating the holiday in conquered Germany. (Original broadcast date December 26, 1948. ABC network.)(Running time 28:59)</p>
+ </description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
