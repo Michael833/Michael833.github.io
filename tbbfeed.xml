@@ -27,6 +27,14 @@ Macro: Place <p>, </p>, and <br /> , delete extra line spaces, then highlight te
 ^ and reg exp for <p>
 $ and reg exp for </p>
 
+
+
+&lt;	<	less than
+&gt;	>	greater than
+&amp;	&	ampersand 
+&apos;	'	apostrophe
+&quot;	"	quotation mark
+
 <item>
 <title>February 5, 2023</title>
 <itunes:author/>
@@ -44,7 +52,7 @@ $ and reg exp for </p>
 <itunes:block/>
 </item>
 
-
+-->
 
 
 
@@ -71,7 +79,7 @@ $ and reg exp for </p>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
--->
+
 
 <item>
 <title>January 22, 2023</title>
