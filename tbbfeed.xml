@@ -26,6 +26,7 @@
 Macro: Place <p>, </p>, and <br /> , delete extra line spaces, then highlight text, then Alt + =
 ^ and reg exp for <p>
 $ and reg exp for </p>
+Alt =, then Alt -
 
 https://michael833.github.io/tbbfeed.xml
 
@@ -71,14 +72,22 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 <description>
-
+0:00:00 - Yours Truly, Johnny Dollar   &quot;The Caylin Matter&quot;   Bob Bailey as Johnny Dollar; a man is found dead and there are too many suspects. Parts 1, 2 &amp; 3. (Original air dates January 2, 3 and 4, 1956. CBS network. Running times 13:36, 13:36, 13:36)
+0:45:00 - Radio Retrospective: Dorothy Thompson    An excerpt from an NBC special broadcast, Ms. Thompson reports on Nazi Germany&apos;s invasion of Poland. (Original air date September 2, 1939. NBC network. Running time approximately 10:00)
+1:00:00 - Gunsmoke   &quot;Dirty Bill&apos;s Girl&quot;  Rose, the card dealer in the Long Branch, plans to kill a man. (Original air date October 28, 1956. CBS network. Running time 22:32)
+1:20:00 - Symphony Sid, excerpt.   Tito Puente performs in a band remote from the &quot;Birdland&quot; club in New York City. (Original air date September 22, 1952.)
+1:30:00 - Dragnet    &quot;The Big Ben&quot;  A man is pulled from his car on a deserted street, robbed, and beaten viciously before his car is stolen.   (Original air date March 15, 1951. NBC network. Running time 26:07)
+2:00:00 - The Halls of Ivy   Dr. Hall has been asked to recite a poem for an appreciative audience, but is reluctant to participate. (Original air date July 5, 1950. NBC network. Running time 26:47)
+2:30:00 -  Will of Stratford    An NBC special program celebrating the 373rd anniversary of William Shakespeare&apos;s birth.  (Original air date April 15, 1937. NBC network. Running time 29:52)
+3:00:00 - Suspense   &quot;Make Mad The Guilty&quot;    Hume Cronyn stars as an out-of-work Shakespearean actor who fakes his own death when his wife leaves him for her muscular lover.  (Original air date April 10, 1948. CBS network. Running time 29:22)
+3:30:00 - The Lady Esther Screen Guild Theatre   &quot;First Love&quot;    Shirley Temple stars in this modern Cinderella story about a young girl who finds romance, despite her cruel relatives.   (Original air date May 14, 1945. CBS network. Running time 26:39)
 </description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
 
 
-
+-->
 
 <item>
 <title>April 16, 2023 - Git</title>
@@ -103,7 +112,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:block/>
 </item>
 
--->
+
 
 
 <item>
