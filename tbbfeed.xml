@@ -48,7 +48,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/795 - October 1, 2023.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/799 - October 1, 2023.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 1 Oct 2023 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -67,7 +67,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/795 - September 24, 2023.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/798 - September 24, 2023.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 24 Sep 2023 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -86,7 +86,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/795 - September 17, 2023.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/797 - September 17, 2023.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 17 Sep 2023 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -105,7 +105,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/795 - September 10, 2023.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/796 - September 10, 2023.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 10 Sep 2023 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -116,7 +116,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:block/>
 </item>
 
-
+-->
 
 <item>
 <title>September 3, 2023 - Git</title>
@@ -144,7 +144,7 @@ https://michael833.github.io/tbbfeed.xml
 </item>
 
 
--->
+
 
 <item>
 <title>August 27, 2023 - Git</title>
