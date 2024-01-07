@@ -133,7 +133,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
-
+-->
 
 <item>
 <title>December 31, 2023 - Git</title>
@@ -141,7 +141,11 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<<<<<<< HEAD
 <enclosure url="https://michael833.github.io/audio/813 - December 31, 2023.mp3" length="50339840" type="audio/mp3"/>
+=======
+<enclosure url="https://michael833.github.io/audio/813 - December 31, 2023.mp3" length="101265408" type="audio/mp3"/>
+>>>>>>> 3af78fe6dfaa7e972230391192bee5fbf1d0ff72
 <pubDate>Sun, 31 Dec 2023 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -161,6 +165,8 @@ https://michael833.github.io/tbbfeed.xml
 
 <item>
 <title>December 25, 2023 - Git</title>
+<<<<<<< HEAD
+=======
 <itunes:author/>
 <itunes:subtitle/>
 <itunes:summary/>
@@ -170,6 +176,33 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 <description>
+0:00:00 - Suspense  “The Cave”  A fanciful tale that takes place at Christmastime, about two boys who enter a cave filled with pirates.  (Original air date December 20, 1955. CBS network. Running time 28:06)
+0:30:00 - Father Knows Best   A Christmas fable about Hans Christian Andersen and his many children’s characters. Robert Young stars.  (Original air date December 21, 1950. NBC network. Running time 29:07)
+1:00:00 - The Campbell Playhouse   “A Christmas Carol”   The definitive version of the classic story, with Lionel Barrymore. (Original air date December 24, 1939. CBS network. Running time 58:45)
+2:00:00 - Duffy’s Tavern    Jeff Chandler guest stars on Ed Gardner’s show; Archie is depressed and solidly “anti-Christmas” until a stranger pays him a visit. (Original air date December 22, 1948. NBC network. Running time 29:39)
+2:30:00 - You Are There   “The Crowning Of Charlemagne”    The events of December 25, 800. (Original air date December 25, 1949. CBS network. Running time 29:19)
+3:00:00 - Philco Radio Time   Is there anything more vintage Christmas than Bing Crosby singing “Adeste Fideles” and “White Christmas”? (Original air date December 25, 1946. CBS network. Running time 37:38)
+3:30:00 - Family Theatre    “The Nativity ” The story of how It all began, and how it will continue.  (Original air date December 24, 1952. Mutual network. Running time 24:07)
+</description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+
+<item>
+<title>December 24, 2023 - Git</title>
+>>>>>>> 3af78fe6dfaa7e972230391192bee5fbf1d0ff72
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/812 - December 25, 2023.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Sun, 25 Dec 2023 23:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description>
+<<<<<<< HEAD
 0:00:00 - Suspense  “The Cave”  A fanciful tale that takes place at Christmastime, about two boys who enter a cave filled with pirates.  (Original air date December 20, 1955. CBS network. Running time 28:06)
 
 0:30:00 - Father Knows Best   A Christmas fable about Hans Christian Andersen and his many children’s characters. Robert Young stars.  (Original air date December 21, 1950. NBC network. Running time 29:07)
@@ -183,12 +216,24 @@ https://michael833.github.io/tbbfeed.xml
 3:00:00 - Philco Radio Time   Is there anything more vintage Christmas than Bing Crosby singing “Adeste Fideles” and “White Christmas”? (Original air date December 25, 1946. CBS network. Running time 37:38)
 
 3:30:00 - Family Theatre    “The Nativity ” The story of how It all began, and how it will continue.  (Original air date December 24, 1952. Mutual network. Running time 24:07)
+=======
+0:00:00 - Our Miss Brooks   The story sometimes called “The Magic Christmas Tree”, Connie Brooks receives visits from all her friends, including Minerva — or was it all a dream?  (Original air date December 25, 1949. CBS network. Running times 28:39)
+0:30:00 - Fibber McGee and Molly   Fibber is outside shoveling snow, trying to find his lost key ring. (Original air date December 23, 1947. NBC network. Running time 29:02)
+1:00:00 - Gunsmoke   “Christmas Story”  Marshal Dillon tells a story to a stranger out in the lonesome praire.  (Original air date December 20, 1952. CBS network. Running time 29:56)
+1:30:00 - Favorite Story   “Journey To Bethlehem”  The story of the birth of Jesus, told from the unique point of view of Saul of Tarsus, later known as St. Paul. (Original air date December 21, 1948. Station KFI. Running time 28:17)
+2:00:00 - Night Beat  Hard-working journalist Randy Stone never seems to get time off from the deadlines and the bylines — so when he gets five whole days off he can’t quite believe the Christmas miracle.  (Original air date December 21, 1951. NBC network. Running time 28:57)
+2:30:00 - The Six-Shooter  Jimmy Stewart stars as The Six Shooter; a western-inspired version of Charles Dickens’ A Christmas Carol (Original air date December 20, 1953. NBC network. Running time 28:02)
+3:00:00 - This Is My Best    “The Plot To Overthrow Christmas”  Orson Welles introduces this Norman Corwin story told in verse: the attack against Santa Claus! (Original air date December 19, 1944. CBS network. Running time 29:03)
+3:30:00 - Family Theatre   “The Crossroads Of Christmas”    An inn-keeper of Nazareth is jeopardized by his Roman-hating nephew, who is hiding from the Centurions. (Original air date December 17, 1952. CBS network. Running time 54:20)
+4:00:00 - Lum &amp; Abner     The Jot ‘Em Down boys annual “Christmas Story”;  a walk through the snowy woods for a Pine Ridge version of the Nativity story. (Original air date December 25, 1944. NBC Blue network. Running time 14:42)
+4:15:00 - Christmas Sing With Bing     Bing Crosby is joined by Jo Stafford, ringing in Christmas Day with all our favorite holiday songs, won’t you sing along?  (Original air date December 24, 1961. CBS network. Running time 37:38)
+>>>>>>> 3af78fe6dfaa7e972230391192bee5fbf1d0ff72
 </description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
-
 -->
+
 <!--
 
 <item>
