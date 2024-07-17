@@ -1,0 +1,23 @@
+https://stackoverflow.com/questions/40561234/can-you-change-git-folder-location
+
+Following this answer in case you want to do this manually (i.e. not using git init --separate-git-dir). I'll assume that in the directory D:\projectfolder there are your files and a .git folder. You want to move that folder to D:\gitfolder
+
+In D:\projectfolder create a file (not folder) named .git with this content:
+
+gitdir: D:\gitfolder\.git
+In folder D:\gitfolder\.git edit the config file with this line under [core]:
+
+worktree = D:\projectfolder
+You can also do this with this command git config core.worktree D:\projectfolder.
+
+
+
+***********  Michael's Implementation ************
+Project folder:  D:\Users\Michael\My Drive\Sebsite
+Desired .git folder location folder: D:\Users\Michael\Documents\GitFolder
+
+In "D:\Users\Michael\My Drive\Sebsite" create a file (not folder) named .git with this content:
+gitdir: D:\Users\Michael\Documents\GitFolder\.git
+
+In folder "D:\Users\Michael\Documents\GitFolder\.git" edit the config file with this line under [core]:
+worktree = D:\Users\Michael\My Drive\Sebsite
