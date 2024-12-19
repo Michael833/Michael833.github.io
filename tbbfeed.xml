@@ -46,7 +46,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/866 - January 12, 2025.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/869 - January 12, 2025.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 12 Jan 2025 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -64,7 +64,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/865 - January 5, 2024.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/868 - January 5, 2024.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 5 Jan 2024 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -82,7 +82,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/864 - December 29, 2024.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/867 - December 29, 2024.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 29 Dec 2024 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -95,12 +95,64 @@ https://michael833.github.io/tbbfeed.xml
 
 
 <item>
+<title>December 25, 2024 - Git</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/866 - December 25, 2024.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Sun, 25 Dec 2024 23:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description>
+In this special extended edition of The Big Broadcast, Murray Horwitz presents four hours of old-time radio programs that bring back warm remembrances of the Christmas season.
+0:00:00 - Family Theater  “The Littlest Angel” He was only four years old, but his gift was the one favored by God. (Original air date December 21, 1949. Mutual Broadcasting System. Running time 28:49)
+0:30:00 - Suspense “The Cave” The thoroughly delightful Christmas story about two boys who enter a cave filled with pirates! (Original air date December 20, 1955. CBS network. Running time 28:06)
+1:00:00 - The Eternal Light. “The Top That Ran Away”. A Chanukah fable filled with magic dreidels, dragons, golden swords and lots more. (Original air date December 10, 1950. NBC network. Running time 28:26)
+1:30:00 - The Fred Allen Show. (Original air  date December 24, 1944. NBC network. )
+2:00:00 - The Campbell Playhouse. “A Christmas Carol”  The definitive version of the classic story. Barrymore never was better. (Original air date December 24, 1939. CBS network.)
+3:00:00 - Grand Central Station. “Miracle For Christmas”.  In this heartwarming tale, a cynical ambulance driver resents having to work on Christmas Eve; but he soon realizes the importance of his job when the young doctor he is transporting from case to case appears to perform miracle after miracle. (Original air date December 24, 1949. Running time 59:46)
+3:30:00 - The Coronet Little Show. “The Coronet Storyteller.” (Original air date December 24, 1944. Mutual network)
+3:45:00 - excerpts from The Kraft Music Hall.  Kraft. A Christmas show. (Original air date December 21, 1944. NBC network)
+</description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+<item>
+<title>December 24, 2024 - Git</title>
+<itunes:author/>
+<itunes:subtitle/>
+<itunes:summary/>
+<itunes:image href="https://michael833.github.io/assets/wamu.png"/>
+<enclosure url="https://michael833.github.io/audio/865 - December 24, 2024.mp3" length="101265408" type="audio/mp3"/>
+<pubDate>Sun, 24 Dec 2024 23:00:00 EST</pubDate>
+<itunes:duration>03:59:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<description>
+In this special extended edition of The Big Broadcast, Murray Horwitz presents five hours of old-time radio programs that bring back warm remembrances of the Christmas season.
+0:00:00 - Our Miss Brooks   A party at Miss Brooks’, with a magic Christmas tree, or was it all a dream? (Original broadcast date December 25, 1949. CBS network)
+0:30:00 - Romance. A mother finds herself just going through the motions of Christmas. (Original broadcast date December 24, 1955. CBS network)
+1:00:00 - Radio Reader’s Digest  (Original broadcast date December 19, 1946. CBS network)
+1:30:00 - The Whistler A Damon Runyon Christmas story. (Original broadcast date December 24, 1950. CBS network)
+2:00:00 - Duffy’s Tavern. Archie is depressed after not getting a Christmas bonus until a stranger pays him a visit. (Original broadcast date December 22, 1948. NBC network)
+2:30:00 - The First Nighter Program.  The ninth annual presentation of the Christmas story on the program. (Original broadcast date December 23, 1945. NBC network)
+3:00:00 - Lum &amp; Abner A walk through the snowy woods for a Pine Ridge version of the Nativity story.  (Original broadcast date December 25, 1944. Blue Network. Running time 14:42:00)
+3:15:00 - Christmas Sing With Bing Bing Crosby is joined by Jo Stafford, ringing in Christmas Day with all our favorite holiday songs, won’t you sing along?  (Original broadcast date December 24, 1961. CBS network)
+</description>
+<itunes:keywords>Old Time Radio</itunes:keywords>
+<itunes:block/>
+</item>
+
+
+<item>
 <title>December 22, 2024 - Git</title>
 <itunes:author/>
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/863 - December 22, 2024.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/864 - December 22, 2024.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 22 Dec 2024 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
@@ -110,7 +162,7 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
-
+-->
 
 <item>
 <title>December 15, 2024 - Git</title>
@@ -118,17 +170,21 @@ https://michael833.github.io/tbbfeed.xml
 <itunes:subtitle/>
 <itunes:summary/>
 <itunes:image href="https://michael833.github.io/assets/wamu.png"/>
-<enclosure url="https://michael833.github.io/audio/862 - December 15, 2024.mp3" length="101265408" type="audio/mp3"/>
+<enclosure url="https://michael833.github.io/audio/863 - December 15, 2024.mp3" length="101265408" type="audio/mp3"/>
 <pubDate>Sun, 15 Dec 2024 23:00:00 EST</pubDate>
 <itunes:duration>03:59:51</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 <description>
-
+0:00:00 - Yours Truly, Johnny Dollar   “The Nick Shurn Matter”  Bob Bailey stars as Johnny Dollar; a nightclub owner is found dead and there are many suspects! A holiday caper. (Original broadcast dates December 15, 20 and 21, 1955. CBS network. Running time 13:43, 13:40 and 13:47)
+1:00:00 - Gunsmoke   “The Partners”  Two itinerant gamblers stage a “William Tell” act, with deliberate bad aim. (Original air date April 20, 1958. CBS network.)
+1:36:00 - Dragnet   “The Big Little Jesus”  A Christmas story. A Los Angeles Mission reports the statue of Jesus has been stolen the day before Christmas. (Original air date December 22, 1953. NBC network.)
+2:17:00 - Fibber McGee and Molly   Fibber paints his Christmas tree white. Teeny and The King’s Men sing “The Night Before Christmas.” (Original air dates December 18, 1945. NBC network.)
+3:00:00 - The Lux Radio Theatre   “Remember The Night” Barbara Stanwyck and Fred MacMurray star in this romance story about a prosecutor who winds up taking a thief with him on a Christmas visit to his mother.   (Original air date March 25, 1940. CBS network. Running time 56:44)
 </description>
 <itunes:keywords>Old Time Radio</itunes:keywords>
 <itunes:block/>
 </item>
--->
+
 
 <item>
 <title>December 8, 2024 - Git</title>
