@@ -1,0 +1,7 @@
+  .apa-reference {
+    padding-left: 36pt; /* 0.5 inch indent */
+    text-indent: -36pt;
+    margin-bottom: 1em;
+    line-height: 2.0; /* APA typically requires double spacing */
+    font-family: "Times New Roman", Times, serif;
+  }
