@@ -1,7 +1,13 @@
+ <!-- style='margin:0in;text-indent:.5in;-->
   .apa-reference {
-    padding-left: 36pt; /* 0.5 inch indent */
-    text-indent: -36pt;
+    padding-left: 3em; /* 0.5 inch indent */
+    text-indent: -1em;
     margin-bottom: 1em;
     line-height: 2.0; /* APA typically requires double spacing */
-    font-family: "Times New Roman", Times, serif;
+  }
+  body {
+    padding-left: 3em;
+	text-indent: -1em;
+	font-size:15px;
+	font-family:"Calibri",sans-serif;'
   }
